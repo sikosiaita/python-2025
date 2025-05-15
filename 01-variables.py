@@ -17,3 +17,10 @@ print (f"Hola mi nombre es {nombre} y mi apellido es {apellido}")
 ciudad, region, pais = "Castro", "Los Lagos", "Chile"
 
 print (f"Hola soy de {ciudad}, {region}, {pais}")
+
+#usando input
+print (nombre)
+nombre = input ("Ingrese su nombre")
+print (f"Hola, mi nombre es: {nombre}")
+
+print (nombre)
