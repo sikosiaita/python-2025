@@ -8,3 +8,20 @@ n = [1, 2, 3, 4]
 ramos = ['programacion', 'quimica']
 
 print(ramos)
+
+#imprimir la posicion del primer elemento de la lista
+print(ramos[0])
+
+#funcion count (cuenta la cantidad de concurrencias)
+print(ramos.count('programacion'))
+
+#creando e instanciando una tupla
+estudiantes = {'luis', 'dayana', 'vale'}
+print(type(estudiantes))
+
+#funcion index
+print(estudiantes.index('luis'))
+
+#creando sets
+colores = {'azul', 'rojo', 'azul', 'verde', 34}
+print(colores)
