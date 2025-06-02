@@ -1,0 +1,1 @@
+frase =str("Ingrese una frase de maximo 30 caracteres")[30]

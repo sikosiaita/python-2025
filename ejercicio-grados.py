@@ -1,0 +1,5 @@
+celsius = (float(input("Ingrese la temperatura en grados celsius: ")))
+farenheit = (float(celsius * 1.8) + 32)
+kelvin = (celsius + 273.5)
+print(f"Su temperatura en grados farenheit es: {round(farenheit,2)}")
+print(f"Su temperatura en grados kelvin es: {round(kelvin,2)}") 
