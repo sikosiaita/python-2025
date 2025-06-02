@@ -2,8 +2,8 @@
 estudiantes = ['samir', 'matias', 'pia', 'carlos']
 
 #eliminando el ultimo elemento de la tupla
-"""estudiantes.pop()
-print(estudiantes)"""
+estudiantes.pop(3)
+print(estudiantes)
 
 """estudiantes = ('constanza')
 print(estudiantes)"""
