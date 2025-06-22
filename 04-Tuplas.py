@@ -9,7 +9,7 @@ print(estudiantes)
 print(estudiantes)"""
 
 #metodo index en tuplas
-print(estudiantes.index('carlos'))
+print(estudiantes.index('pia'))
 
 #metodo sorted en tuplas
 print(sorted(estudiantes))

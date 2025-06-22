@@ -20,7 +20,7 @@ estudiantes = {'luis', 'dayana', 'vale'}
 print(type(estudiantes))
 
 #funcion index
-print(estudiantes.index('luis'))
+print(estudiantes.index('vale'))
 
 #creando sets
 colores = {'azul', 'rojo', 'azul', 'verde', 34}
